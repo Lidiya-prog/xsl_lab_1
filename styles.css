@@ -1,0 +1,17 @@
+body {
+  background: #f1d2d2;
+}
+h1, h4 {
+  text-align: center;
+}
+.result {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+.btns {
+  display: flex;
+  justify-content: center;
+}
